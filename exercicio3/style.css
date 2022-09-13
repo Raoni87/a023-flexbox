@@ -23,16 +23,25 @@ section{
 }
 
 #section-1{
+  display: flex;
 }
 
 #section-2{
+  display: flex;
+  flex-basis: 150px;
 }
 
 #section-3{
+  display: flex;
+  flex-basis: 200px;
 }
 
 #section-4{
+  display: flex;
+  flex-basis: 200px;
 }
 
 #section-5{
+  display: flex;
+  order: 0;
 }
